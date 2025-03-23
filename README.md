@@ -55,7 +55,7 @@ The URL shortener uses the following approach:
 - **Response**:
   ```json
   {
-    "totalClicks": k,  (k >= 0)
+    "totalClicks": k
   }
   ```
 
